@@ -1,5 +1,8 @@
 # Payload Release Controller (ESP32)
 
+![Payload Release State Machine](payload release architecture diagram.png)
+
+
 ## Overview
 
 This module implements a deterministic, safety-gated payload release controller for a UAV system.  
