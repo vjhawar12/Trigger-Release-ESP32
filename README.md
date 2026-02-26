@@ -1,6 +1,6 @@
 # Payload Release Controller (ESP32)
 
-![Payload Release State Machine](payload release architecture diagram.png)
+![Payload Release State Machine](architecture_diagram.png)
 
 
 ## Overview
